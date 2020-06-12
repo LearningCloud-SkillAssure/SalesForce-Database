@@ -11,7 +11,7 @@ You should have the below-mentioned software installed in your system.
 
 Click on the below link to download the salesorder DB restoration script from Github.
 
-File Name: **“SalesForce.zip”**
+File Name: **“SalesOrder.zip”**
 
 After downloading from Git , Extract the SalesOrder.zip file in your system. Then follow the below instructions to restore the salesorder DB.
 1. Open a file with NotePad / any text file editor tool.
